@@ -1,0 +1,10 @@
+/*
+Theme Name: Cong CMS
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/* Import CSS */
+@import "/wp-content/themes/cong-cms/_assets/css/style.css";
